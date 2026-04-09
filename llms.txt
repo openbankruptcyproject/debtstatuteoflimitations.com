@@ -1,0 +1,29 @@
+# Debt Statute of Limitations by State [2026]
+> Check the statute of limitations on debt in your state. Credit cards, medical bills, and personal loans. Complete 2026 state-by-s...
+
+## About
+debtstatuteoflimitations.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Bankruptcy vs. Waiting for the Statute of Limitations -- Which Strategy Is Right?: https://debtstatuteoflimitations.com/bankruptcy-vs-sol.html
+- Credit Card Statute of Limitations -- When Old Credit Card Debt Expires: https://debtstatuteoflimitations.com/credit-card-statute-of-limitations.html
+- Debt Statute of Limitations by State: https://debtstatuteoflimitations.com/
+- Medical Debt Statute of Limitations -- When Medical Bills Expire: https://debtstatuteoflimitations.com/medical-debt-statute-of-limitations.html
+- Reviving Expired Debt -- How Collectors Trick You Into Resetting the Clock -- Statute of Limitations: https://debtstatuteoflimitations.com/reviving-expired-debt.html
+- Statute of Limitations Defense Letter Template -- Respond to Time-Barred Debt: https://debtstatuteoflimitations.com/sol-defense-letter-template.html
+- Statute of Limitations on Debt by State -- 50-State Guide: https://debtstatuteoflimitations.com/state-by-state-guide.html
+- Tolling the Statute of Limitations on Debt -- Pauses, Extensions, and Exceptions: https://debtstatuteoflimitations.com/tolling-rules.html
+- When Debt Collectors Sue -- Timelines, Tactics, and Your Rights -- Statute of Limitations: https://debtstatuteoflimitations.com/when-collectors-sue.html
+- Written vs. Oral Contracts -- Different Statutes of Limitations for Different Debts -- Statute of Limitations: https://debtstatuteoflimitations.com/written-vs-oral-contracts.html
+- Statute of Limitations on Debt by State -- 50-State Table (2026): https://debtstatuteoflimitations.com/by-state.html
+- Credit Card Statute of Limitations by State -- Written Contract vs Open Account: https://debtstatuteoflimitations.com/credit-card-sol.html
+- Can a Debt Collector Sue You After the Statute of Limitations?: https://debtstatuteoflimitations.com/can-they-still-sue.html
+- Statute of Limitations and Bankruptcy -- How They Interact: https://debtstatuteoflimitations.com/sol-and-bankruptcy.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
